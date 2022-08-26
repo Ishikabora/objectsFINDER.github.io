@@ -1,0 +1,62 @@
+body
+{
+    background-size: cover;
+    font-family: cursive;
+    text-align: center;
+    align-items: center;
+    color: rgb(0, 0, 0);
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    background-color: rgb(255, 9, 107);
+    color: #fff;
+    border-color: transparent;
+}
+
+.heading:hover
+{
+    background-color: rgb(255, 9, 107);
+    color: #fff;
+    border-color: transparent;
+}
+
+#note
+{
+    color: black;
+    font-size: 15px;
+}
+
+#object_input
+{
+    font-size: 20px;
+}
+
+#start-model
+{
+    background-color: rgb(225, 14, 151);
+    color:rgb(255, 255, 255);
+}
+
+#status
+{
+    background-color: rgb(182, 50, 109);
+    color:rgb(255, 255, 255);
+}
+
+#found
+{
+    background-color: rgb(182, 50, 109);
+    color:rgb(255, 255, 255);
+}
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
